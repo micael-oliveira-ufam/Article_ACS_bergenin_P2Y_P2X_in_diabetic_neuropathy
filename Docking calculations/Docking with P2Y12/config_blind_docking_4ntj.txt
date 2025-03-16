@@ -1,0 +1,10 @@
+receptor = 4ntj_prep_maestro.pdbqt
+ligand = Ligands/Adenosine-5-diphosphate_ADP.pdbqt 
+center_x = 18.421
+center_y = 78.567
+center_z = 31.179
+size_x = 67.500
+size_y = 94.500
+size_z = 86.250
+out = docking3_blind_4ntj_P2Y12_Adenosine-5-diphosphate_ADP.pdbqt
+exhaustiveness = 96
