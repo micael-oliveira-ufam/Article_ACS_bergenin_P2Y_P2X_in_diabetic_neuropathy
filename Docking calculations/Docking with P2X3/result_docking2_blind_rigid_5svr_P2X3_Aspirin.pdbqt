@@ -1,0 +1,342 @@
+MODEL 1
+REMARK VINA RESULT:    -5.322      0.000      0.000
+REMARK INTER + INTRA:          -6.824
+REMARK INTER:                  -6.410
+REMARK INTRA:                  -0.414
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      16.978 -10.101 -22.723  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      17.870 -10.863 -23.476  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      17.402  -8.910 -22.134  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      19.187 -10.433 -23.642  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      18.718  -8.480 -22.300  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      19.610  -9.242 -23.053  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      15.687 -10.503 -22.551  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      14.737  -9.621 -23.088  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      14.221  -8.679 -22.501  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      14.433  -9.998 -24.508  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      17.447 -12.110 -24.101  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      17.116 -12.258 -25.274  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      17.452 -13.147 -23.219  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      17.940 -13.922 -23.569  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -5.179      1.593      2.188
+REMARK INTER + INTRA:          -6.652
+REMARK INTER:                  -6.073
+REMARK INTRA:                  -0.580
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      18.225 -10.856 -23.176  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      19.251 -11.787 -23.338  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      18.518  -9.493 -23.147  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      20.570 -11.354 -23.473  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      19.838  -9.060 -23.281  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      20.863  -9.991 -23.443  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      16.929 -11.258 -23.046  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      16.095 -10.852 -24.099  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      16.222 -11.167 -25.275  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      15.007  -9.962 -23.576  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      18.966 -13.215 -23.374  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      19.566 -14.091 -22.758  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      17.919 -13.503 -24.196  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      18.192 -13.533 -25.138  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -5.132      2.292      3.913
+REMARK INTER + INTRA:          -6.596
+REMARK INTER:                  -6.060
+REMARK INTRA:                  -0.535
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      19.117  -9.372 -22.866  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      19.406  -8.013 -22.995  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      20.042 -10.325 -23.291  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      20.620  -7.608 -23.549  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      21.257  -9.920 -23.844  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      21.545  -8.562 -23.974  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      17.937  -9.788 -22.326  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      17.146 -10.552 -23.198  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      17.026 -11.769 -23.174  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      16.456  -9.655 -24.182  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      18.454  -7.001 -22.556  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      18.027  -6.066 -23.227  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      18.064  -7.198 -21.266  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      17.989  -6.353 -20.774  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -5.102      2.036      3.254
+REMARK INTER + INTRA:          -6.560
+REMARK INTER:                  -5.852
+REMARK INTRA:                  -0.708
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      17.599  -9.728 -23.475  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      18.716  -9.124 -22.898  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      17.677 -11.044 -23.931  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      19.910  -9.835 -22.777  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      18.870 -11.756 -23.810  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      19.986 -11.151 -23.233  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      16.423  -9.051 -23.600  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      15.387  -9.549 -22.795  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      15.451  -9.751 -21.590  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      14.168  -9.807 -23.630  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      18.656  -7.751 -22.413  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      19.223  -6.781 -22.907  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      17.874  -7.638 -21.304  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      18.392  -7.749 -20.479  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -5.031     64.619     66.616
+REMARK INTER + INTRA:          -6.474
+REMARK INTER:                  -6.097
+REMARK INTRA:                  -0.377
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1     -11.120  -5.233 -84.062  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      -9.798  -5.482 -83.692  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1     -11.441  -5.029 -85.404  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      -8.798  -5.527 -84.663  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1     -10.441  -5.074 -86.375  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      -9.120  -5.323 -86.004  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1     -12.111  -5.187 -83.128  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1     -12.423  -3.892 -82.688  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1     -11.781  -2.879 -82.932  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1     -13.673  -3.919 -81.859  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      -9.442  -5.700 -82.296  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      -8.664  -5.022 -81.630  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1     -10.083  -6.781 -81.771  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      -9.456  -7.413 -81.360  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -5.027     37.217     39.177
+REMARK INTER + INTRA:          -6.470
+REMARK INTER:                  -5.953
+REMARK INTRA:                  -0.517
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1     -18.261 -11.389 -38.909  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1     -18.949 -10.189 -39.084  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1     -17.095 -11.419 -38.146  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1     -18.472  -9.019 -38.494  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1     -16.616 -10.249 -37.555  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1     -17.305  -9.050 -37.730  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1     -18.713 -12.544 -39.476  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1     -19.031 -13.549 -38.550  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1     -18.363 -14.548 -38.319  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1     -20.328 -13.226 -37.869  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1     -20.171 -10.136 -39.876  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1     -21.315 -10.044 -39.441  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1     -19.913 -10.202 -41.212  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1     -20.219 -11.049 -41.601  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -5.024     36.430     38.554
+REMARK INTER + INTRA:          -6.466
+REMARK INTER:                  -6.280
+REMARK INTRA:                  -0.186
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1     -18.379 -10.024 -38.871  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1     -17.377 -10.638 -38.119  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1     -18.835  -8.754 -38.518  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1     -16.830  -9.982 -37.017  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1     -18.288  -8.097 -37.416  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1     -17.287  -8.712 -36.665  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1     -18.925 -10.648 -39.953  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1     -20.323 -10.754 -39.907  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1     -20.970 -11.329 -39.043  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1     -20.928 -10.052 -41.087  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1     -16.885 -11.964 -38.471  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1     -17.561 -12.983 -38.583  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1     -15.539 -11.968 -38.673  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1     -15.313 -11.974 -39.628  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -5.015      2.388      3.564
+REMARK INTER + INTRA:          -6.455
+REMARK INTER:                  -5.780
+REMARK INTRA:                  -0.675
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      19.117  -8.493 -23.626  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      18.866  -9.764 -23.108  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      20.400  -8.158 -24.058  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      19.898 -10.699 -23.024  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      21.432  -9.092 -23.973  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      21.180 -10.362 -23.455  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      18.122  -7.567 -23.720  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      18.203  -6.542 -22.764  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      18.291  -6.697 -21.553  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      18.164  -5.205 -23.443  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      17.533 -10.136 -22.653  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      16.827 -11.025 -23.121  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      17.120  -9.366 -21.608  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      17.152  -8.410 -21.824  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -4.998      1.166      3.291
+REMARK INTER + INTRA:          -6.435
+REMARK INTER:                  -5.886
+REMARK INTRA:                  -0.549
+REMARK UNBOUND:                -0.414
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C5_5 
+REMARK    2  A    between atoms: O1_1  and  C12_12 
+REMARK    3  A    between atoms: O2_2  and  C11_11 
+REMARK    4  A    between atoms: C6_6  and  C11_11 
+ROOT
+ATOM      1  C5  UNK d   1      17.675 -10.231 -22.986  0.00  0.00     0.096 A 
+ATOM      2  C6  UNK d   1      17.290  -8.936 -22.639  0.00  0.00     0.071 A 
+ATOM      3  C7  UNK d   1      19.008 -10.504 -23.289  0.00  0.00     0.038 A 
+ATOM      4  C8  UNK d   1      18.238  -7.915 -22.594  0.00  0.00     0.021 A 
+ATOM      5  C9  UNK d   1      19.957  -9.483 -23.244  0.00  0.00     0.003 A 
+ATOM      6  C10 UNK d   1      19.572  -8.189 -22.898  0.00  0.00     0.001 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  O1  UNK d   1      16.763 -11.243 -23.033  0.00  0.00    -0.278 OA
+BRANCH   7   8
+ATOM      8  C12 UNK d   1      16.674 -11.875 -24.283  0.00  0.00     0.260 C 
+ATOM      9  O4  UNK d   1      17.142 -12.970 -24.567  0.00  0.00    -0.265 OA
+ATOM     10  C13 UNK d   1      15.913 -11.009 -25.242  0.00  0.00     0.126 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  C11 UNK d   1      15.902  -8.630 -22.317  0.00  0.00     0.179 C 
+ATOM     12  O3  UNK d   1      15.175  -7.842 -22.914  0.00  0.00    -0.646 OA
+BRANCH  11  13
+ATOM     13  O2  UNK d   1      15.465  -9.333 -21.235  0.00  0.00    -0.773 OA
+ATOM     14  H21 UNK d   1      15.183  -8.742 -20.505  0.00  0.00     0.167 HD
+ENDBRANCH  11  13
+ENDBRANCH   2  11
+TORSDOF 4
+ENDMDL

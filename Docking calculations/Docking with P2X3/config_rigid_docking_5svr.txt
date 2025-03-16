@@ -1,0 +1,10 @@
+receptor = 5svr_prep_maestro.pdbqt
+ligand = Ligands/bergenin_dft_6_311G.pdbqt
+center_x = 5.190
+center_y = -10.045
+center_z = -59.500
+size_x = 25.000
+size_y = 27.250
+size_z = 34.750
+out = result_docking2_rigid_5svr_P2X3_bergenin_dft_6_311G.pdbqt
+exhaustiveness = 96
