@@ -1,0 +1,10 @@
+receptor = 1ouk_P38_MAPK_prep_maestro.pdbqt
+ligand = Ligands/Adenosine-5-diphosphate_ADP.pdbqt
+center_x = 44.89733  
+center_y = 33.402695
+center_z = 31.817564
+size_x = 126.0
+size_y = 126.0
+size_z = 126.0
+out = result_docking1_blind_1ouk_P38_MAPK_ADP.pdbqt
+exhaustiveness = 96

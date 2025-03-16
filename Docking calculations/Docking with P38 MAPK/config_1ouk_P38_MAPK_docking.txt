@@ -1,0 +1,10 @@
+receptor = 1ouk_P38_MAPK_prep_maestro.pdbqt
+ligand = Ligands/gallic_acid_pubchem_MMFF94.pdbqt
+center_x = 44.89733  
+center_y = 33.402695
+center_z = 31.817564
+size_x = 33.750
+size_y = 33.000
+size_z = 25.500
+out = result_docking1_1ouk_P38_MAPK_gallic_acid_pubchem_MMFF94.pdbqt
+exhaustiveness = 96
