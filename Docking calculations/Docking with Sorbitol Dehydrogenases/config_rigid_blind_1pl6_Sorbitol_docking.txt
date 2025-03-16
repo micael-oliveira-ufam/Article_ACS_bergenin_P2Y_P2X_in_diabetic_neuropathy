@@ -1,0 +1,10 @@
+receptor = Receptor/1pl6_prep_maestro.pdbqt
+ligand = Ligands/Adenosine-5-diphosphate_ADP.pdbqt
+center_x = 103.04892 
+center_y = 37.038723
+center_z = 35.275665
+size_x = 126.0
+size_y = 126.0
+size_z = 126.0
+out = result_docking1_blind_1pl6_Sorbitol_ADP.pdbqt
+exhaustiveness = 96

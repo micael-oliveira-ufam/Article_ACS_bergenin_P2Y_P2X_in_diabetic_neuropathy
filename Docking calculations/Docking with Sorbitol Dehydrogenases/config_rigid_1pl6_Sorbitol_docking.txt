@@ -1,0 +1,10 @@
+receptor = Receptor/1pl6_prep_maestro.pdbqt
+ligand = Ligands/gallic_acid_pubchem_MMFF94.pdbqt
+center_x = 103.04892 
+center_y = 37.038723
+center_z = 35.275665
+size_x = 30.750
+size_y = 24.000
+size_z = 24.750
+out = result_docking2_1pl6_Sorbitol_gallic_acid_pubchem_MMFF94.pdbqt
+exhaustiveness = 96
