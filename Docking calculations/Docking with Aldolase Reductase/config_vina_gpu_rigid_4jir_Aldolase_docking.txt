@@ -1,0 +1,10 @@
+receptor = Receptor/4jir_aldolase_prepared_maestro.pdbqt
+ligand_directory = Ligands/PDBQT
+output_directory = Output_GPU_Vina/
+thread = 8000
+center_x = -5.862404   
+center_y = 7.862499
+center_z = 17.630215
+size_x = 25.500
+size_y = 27.000
+size_z = 24.000

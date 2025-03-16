@@ -1,0 +1,10 @@
+receptor = Receptor/4jir_aldolase_prepared_maestro.pdbqt
+ligand = Ligands/gallic_acid_pubchem_MMFF94.pdbqt
+center_x = -5.862404   
+center_y = 7.862499
+center_z = 17.630215
+size_x = 25.500
+size_y = 27.000
+size_z = 24.000
+out = result_docking1_4jir_Aldolase_gallic_acid_pubchem_MMFF94.pdbqt
+exhaustiveness = 96
