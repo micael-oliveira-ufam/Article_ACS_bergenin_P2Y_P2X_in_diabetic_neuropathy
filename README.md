@@ -1,10 +1,10 @@
 # Scripts and data for the ACS article of bergenin and derivates designed by AI for the treatment of diabetic neuropathy
 
-*Main Author:* 
+**Main Author:** 
 
 Micael Davi Lima de Oliveira - Laboratory of Biological Activities, Faculcuty of Pharmaceutical Sciences, Federal University of Amazonas, 69080-900, Manaus, Amazonas, Brazil.
 
-*Project leaders:* 
+**Project leaders:** 
 
 Kelson Mota Teixeira de Oliveira - Laboratory of Theoretical and Computational Chemistry, Department of Chemistry, Federal University of Amazonas, 69080-900, Manaus, Amazonas, Brazil. 
                    
